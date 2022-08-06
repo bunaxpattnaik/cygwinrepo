@@ -6,5 +6,6 @@ using namespace std;
 int main()
 {
 	sample s;
+	cout<<"Internet connection down!!!!"<<endl;
 	return 0;
 }
